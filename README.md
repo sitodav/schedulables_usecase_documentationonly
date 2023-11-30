@@ -3,7 +3,7 @@ Code repository for a specific use-case of the sito_schedulables library.
 
 The example provided here is more complex than the one used in the howto/documentation here :
 
-https://github.com/sitodav/sito_schedulables (use this link if you want to learn more about the library itself, for example what it is , how it works, how to install etc..)
+https://github.com/sitodav/sito_schedulables_documentationonly (use this link if you want to learn more about the library itself, for example what it is , how it works, how to install etc..)
 
 You can find a video of this use case on youtube :
 
